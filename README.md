@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Rojoloco04/Rojoloco04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Jackson Parrack — a Computer Engineering student at Saint Louis University and incoming Software Engineer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on full-stack web applications, systems programming projects in C/C++, and building tools that emphasize performance and clean design.
+- 🌱 I’m currently learning more about systems optimization, operating systems concepts, and diving deeper into machine learning and statistics.
+- 👯 I’m looking to collaborate on open-source systems projects, performance-focused backend services, and interesting hackathon ideas.
+- 🤔 I’m looking for help with advanced systems design, compiler theory, and low-level performance tuning.
+- 💬 Ask me about C/C++, Python, embedded systems, or DevOps workflows.
+- 📫 How to reach me: parrackjack@gmail.com | https://www.linkedin.com/in/jackson-parrack/
+- ⚡ Fun fact: I studied abroad in Seoul, South Korea, and developed a strong interest in global tech collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I’m especially interested in the intersection of high-performance systems and scalable software architecture, and I’m currently pursuing a Master’s in Computer Science while working full-time as a Software Engineer.
