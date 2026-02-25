@@ -2,11 +2,10 @@
 
 I’m Jackson Parrack — a Computer Engineering student at Saint Louis University and incoming Software Engineer.
 
-- 🔭 I’m currently working on full-stack web applications, systems programming projects in C/C++, and building tools that emphasize performance and clean design.
-- 🌱 I’m currently learning more about systems optimization, operating systems concepts, and diving deeper into machine learning and statistics.
-- 👯 I’m looking to collaborate on open-source systems projects, performance-focused backend services, and interesting hackathon ideas.
+- 🔭 I’m currently working on full-stack applications, systems programming projects in C/C++, and building tools that emphasize performance and clean design.
+- 🌱 I’m currently learning more about optimization, operating systems concepts, and diving deeper into machine learning and statistics.
 - 🤔 I’m looking for help with advanced systems design, compiler theory, and low-level performance tuning.
-- 💬 Ask me about C/C++, Python, embedded systems, or DevOps workflows.
+- 💬 Ask me about C/C++, embedded systems, or DevOps workflows.
 - 📫 How to reach me: parrackjack@gmail.com | https://www.linkedin.com/in/jackson-parrack/
 - ⚡ Fun fact: I studied abroad in Seoul, South Korea, and developed a strong interest in global tech collaboration.
 
