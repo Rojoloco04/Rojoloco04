@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Jackson Parrack, a Software Engineer @ Mastercard and M.S. Computer Science Student @ Georgia Tech, and a B.S. Computer Engineering graduate with highest honors.
+I’m Jackson Parrack, a Software Engineer @ Mastercard, M.S. Computer Science student @ Georgia Tech, and a B.S. Computer Engineering graduate with highest honors.
 
 - 🔭 I’m currently working on tons of random side projects to improve various aspects of daily life.
 - 🌱 I’m currently learning more about computing systems, working in industry, and diving deeper into machine learning and AI.
